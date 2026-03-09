@@ -1,2 +1,2 @@
 test
-after migration
+after migrations
